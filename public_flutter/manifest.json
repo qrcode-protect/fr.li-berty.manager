@@ -1,6 +1,6 @@
 {
-    "name": "libertyrestaurant",
-    "short_name": "libertyrestaurant",
+    "name": "libertymanager",
+    "short_name": "libertymanager",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
